@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.menu-principal{
+    width: 100%;
+    background-color: #ddd;
+    height: 85px;
+}
+.main{
+    margin: 0 auto;
+    width: 980px;
+    position:relative;
+}
+.logo{
+    margin-left: 25px;
+}
